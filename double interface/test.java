@@ -1,0 +1,5 @@
+package double interface;
+
+public  {
+    
+}
